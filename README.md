@@ -2,7 +2,7 @@
 <html>
 <body>
 <h1 style="font-family:Lucida Handwriting;font-size:50px;" align="center">Minecraft</h1>
-<img src="MinecraftLogo.jpg" alt="MinecraftLogo" class="center" width="375" height="300" />
+<a href="https://github.com/Sites-Of-A-Gamer/BTD6/blob/main/README.md"> <img src="MinecraftLogo.jpg" alt="MinecraftLogo" class="center" width="375" height="300" /></a>
 <h2 style="font-family:Arial;font-size:20px;">Minecraft: An Interesting and Digital Playground Of Creativity</h2>
 <p style="font-family:Arial;font-size:20px;">Since its initial debut in 2011, Markus "Notch" Persson's sandbox video game, Minecraft, has grown to become an international sensation. The game was later enhanced by Mojang Studios. Minecraft has a major impact on gaming culture, education, and digital creation, despite its open-ended nature and basic graphics. With its distinctive fusion of building, survival, and exploration features, Minecraft has carved out a place for itself that goes beyond the limits of traditional gaming. It has influenced millions of players worldwide and inspired an unprecedented period of creativity and innovation.
 
